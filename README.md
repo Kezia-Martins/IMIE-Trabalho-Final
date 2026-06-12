@@ -3,12 +3,18 @@ Trabalho Final da disciplina de **Instrumentação, Medidas, Equipamentos e Inst
 ---
 
 ## 👥 Equipe
-Maria Kézia 
-Ruan Miranda 
-Ítalo Fernandes
-Ana Luiza
-Wescley Natanael 
-Maria Celina
+
+
+
+
+
+* Maria Kézia
+* Ruan Miranda
+* Ítalo Fernandes
+* Ana Luiza
+* Wescley Natanael
+* Maria Celina
+
 
 ---
 
