@@ -1,1 +1,15 @@
+# Arquivos temporários do AutoCAD
+*.bak
+*.dwl
+*.dwl2
+*.ac$
+*.sv$
 
+# Arquivos temporários do Office (Excel/Word)
+~$*.docx
+~$*.xlsx
+~$*.pptx
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
