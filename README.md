@@ -2,11 +2,7 @@ Trabalho Final da disciplina de **Instrumentação, Medidas, Equipamentos e Inst
 
 ---
 
-## 👥 Equipe
-
-
-
-
+## Equipe
 
 * Maria Kézia
 * Ruan Miranda
@@ -18,14 +14,14 @@ Trabalho Final da disciplina de **Instrumentação, Medidas, Equipamentos e Inst
 
 ---
 
-## 📌 Escopo e Especificações do Projeto
+## Escopo e Especificações do Projeto
 * **Normas Base:** NBR 5410/04 e Especificação Técnica nº 124 (ENEL).
 * **Tensão do Sistema:** Secondary nominal voltage 380V (Fase-Fase) / 220V (Fase-Neutro).
 * **Cargas Mínimas Obrigatórias (Suíte):** 1 Ar Condicionado + 1 Chuveiro Elétrico.
 
 ---
 
-## 📅 Cronograma de Entregas
+## Cronograma de Entregas
 | Marco | Data Limite | Status |
 | :--- | :---: | :---: |
 | Formação da Equipe (E-mail) | 15/06/2026 | 🟢 Concluído |
@@ -36,7 +32,7 @@ Trabalho Final da disciplina de **Instrumentação, Medidas, Equipamentos e Inst
 
 ---
 
-## 📐 Estrutura do Relatório Final (Padrão Obrigatório)
+## Estrutura do Relatório Final (Padrão Obrigatório)
 1. Capa
 2. Índice
 3. Memorial de Cálculo (Dados de identificação, procedimentos e especificações)
