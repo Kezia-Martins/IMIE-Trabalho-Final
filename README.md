@@ -1,12 +1,12 @@
-# 📕 Quadro de Trabalho: Organização e Documentação (Branch `feature/doc`)
+# Quadro de Trabalho: Organização e Documentação
 
 Esta ramificação é focada exclusivamente na formatação do relatório técnico final, escrita da introdução, juntada das partes do projeto e revisão das normas.
 
-## 👥 Dupla Responsável
-* (Nome do Integrante 1)
-* (Nome do Integrante 2)
+## Dupla Responsável
+* Integrante 1
+* Integrante 2
 
-## 📌 Requisitos da Organização do Relatório
+## Requisitos da Organização do Relatório
 A dupla de documentação deve estruturar o arquivo final garantindo a seguinte ordem formal:
 
 - [ ] **Capa e Folha de Rosto:** Contendo o título do projeto, nome de todos os 5 ou 6 integrantes e identificação da disciplina.
