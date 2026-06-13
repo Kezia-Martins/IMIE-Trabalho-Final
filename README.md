@@ -1,6 +1,6 @@
 # Quadro de Trabalho: Memorial de Cálculo 
 
-Esta ramificação é focada exclusivamente no desenvolvimento analítico, memorial descritivo e formatação do relatório final
+Esta ramificação é focada exclusivamente no desenvolvimento analítico e memorial descritivo
 
 ## Dupla Responsável
 * Integrante 1
@@ -16,4 +16,3 @@ Esta ramificação é focada exclusivamente no desenvolvimento analítico, memor
 * [ ] Previsão de potência de iluminação e tomadas por ambiente
 * [ ] Quadro estimativo de carga geral e divisão dos circuitos terminais
 * [ ] Dimensionamento de todos os condutores e proteções (disjuntores, etc.)
-* [ ] Estrutura formal do PDF: Capa, Índice, Memorial e Anexos
