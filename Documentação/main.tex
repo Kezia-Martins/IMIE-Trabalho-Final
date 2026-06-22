@@ -1,0 +1,113 @@
+\documentclass[12pt,a4paper]{article}
+%=============================================================
+\usepackage{graphicx} % Required for inserting images
+\usepackage[utf8]{inputenc}
+\usepackage[Brazil]{babel}
+\usepackage{geometry}
+\geometry{a4paper, left=3cm,top=3cm, right=2cm, bottom=2cm}
+
+\usepackage{graphicx}
+\usepackage{booktabs}
+\usepackage{indentfirst}
+
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+
+\usepackage[alf]{abntex2cite}
+%===============================================================
+\begin{document}
+
+%----CAPA---
+\begin{titlepage}
+    \begin{center}
+     % INSERÇÃO DO LOGO DA UFC
+        % [width=1.5cm] define a largura da imagem. Você pode aumentar ou diminuir.
+        \includegraphics[width=1.5cm]{logo-ufc .PNG} 
+                
+    \vspace{0.2cm} % Pequeno espaço antes do logo
+        % Nome da Instituição
+        \small\textbf{UNIVERSIDADE FEDERAL DO CEARÁ}
+        \vspace{0.1cm}
+        
+        \small\textbf{CENTRO DE TECNOLOGIA}
+        \vspace{0.1cm}
+        
+        \small\textbf{DEPARTAMENTO DE ENEGENHARIA ELETRICA}
+        \vspace{0.1cm} 
+        
+        \small\textbf{CURSO DE GRADUAÇÃO EM ENEGENHRIA ELETRICA}
+        
+        \vspace{2.5cm} % Pequeno espaço antes do logo
+        
+        % Nome do Autor
+        {\small SEU NOME COMPLETO} {(\small MATRICULA)}\\
+        \vspace{0.1cm} 
+        {\small SEU NOME COMPLETO} {(\small MATRICULA)}\\
+        \vspace{0.1cm} 
+        {\small ÍTALO FERNANDES MORAES DA SILVA} {(\small 579937)}\\
+        \vspace{0.1cm} 
+        {\small SEU NOME COMPLETO} {(\small MATRICULA)}\\
+        \vspace{0.1cm} 
+        {\small SEU NOME COMPLETO} {(\small MATRICULA)}\\
+        \vspace{3.5cm}
+        
+        % Título do Trabalho
+        \textbf{\small TRABALHO FINAL DE INSTALAÇÕES ELÉTRICAS RESIDÊNCIAIS}\\
+        {\normalsize Diagrama Unifilar e memorial de Cálculo de uma 
+        Residência}\\
+        
+        \vspace{3.5cm}
+        \small\textbf{PROF:} {DALTON HONORIO ARAUJO}
+        \vfill
+        
+        {\textbf{\small FORTALEZA}}\\
+        \vspace{0.1cm}
+        {\textbf{\small 2026}}
+    \end{center}
+\end{titlepage}
+\newpage
+
+%---SUMARIO---
+\tableofcontents
+\newpage
+%---OBJETIVOS---
+\section{Objetivos}
+\subsection{Objetivos Geral}
+\subsection{Objetivos especificos}
+\newpage
+
+%---INTRODUÇÃO---
+\section{Introdução}
+
+\newpage
+%---FUNDAMENTAÇAÕ TEORICA---
+\section{Fundamentação Teorica}
+\newpage
+
+%---METODOLOGIA--
+\section{Metodologia}
+
+\begin{center}
+    %---INCLUSÃO DE FIGURA---
+    \includegraphics[width=3.5cm]{logo-ufc .PNG}
+\end{center}
+\newpage
+%---RESULTADOS---
+\section{Resultados}
+\newpage
+%---CONCLUSÃO--
+\section{Conclusão}
+\newpage
+%---REFERENCIAS
+\newpage
+\bibliographystyle{abntex2-alf} % Usa o estilo alfabético da ABNT (requer
+pacote abntex2 instalado no projeto)
+% Caso dê erro de pacote, você pode usar o estilo padrão: 
+\bibliographystyle{plain}
+\bibliography{referencias}     % Chama o arquivo referencias.bib
+\cite{site_overleaf}
+
+
+
+\end{document}
